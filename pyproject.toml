@@ -1,0 +1,9 @@
+[project]
+name = "heritage-casework"
+version = "0.1.0"
+description = "文化遗产协同保护案卷的服务端基础"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
